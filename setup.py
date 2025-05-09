@@ -45,7 +45,7 @@ setup(
 	    'statsmodels>=0.13.5',
         'PyWavelets>=1.1.1',
         'pillow==7.1.2',
-        'tensorflow==2.4',
+        'tensorflow>=2.15',
         'keras==2.4.0',
         'pyod==1.0.5',
         'nimfa==1.4.0',
